@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Burst oral care](https://www.burstoralcare.com/)
 
-- 🌱 I’m currently learning **AI, ML and Vue.js**
+- 🌱 I’m currently learning **AI, ML, Python and Vue.js**
 
-- 💬 Ask me about **React, SSR, Nextjs, Angular and Javascript**
+- 💬 Ask me about **React, SSR, Nextjs, Nodejs, Angular and Javascript**
 
 - 📫 How to reach me **deepanshugoel17@live.com**
 
