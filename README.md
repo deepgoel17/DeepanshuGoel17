@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshugoel17&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshugoel17" /> </p>
 
-- 🔭 I’m currently working on [Burst oral care](https://www.burstoralcare.com/)
+- 🔭 I’m currently working at GOOGLE
 
-- 🌱 I’m currently learning **AI, ML, Python and Vue.js**
+- 🌱 I’m currently learning **AI, ML, Python**
 
-- 💬 Ask me about **React, SSR, Nextjs, Nodejs, Angular and Javascript**
+- 💬 Ask me about **Java, React, SSR, Nextjs, Nodejs, Angular, typescript and Javascript**
 
 - 📫 How to reach me **deepanshugoel17@live.com**
 
